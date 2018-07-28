@@ -1,6 +1,6 @@
 #/usr/bin/python3
 
-#Main_developer: Code_Chief
+#Created_by: Code_Chief
 
 import subprocess, sys
 
